@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+
+.expression {
+  color: red;
+}
+
+.redtext {
+  color: darkorchid;
+}
+
+button {
+  font-size: calc(10px + 2vmin);
+}
